@@ -32,15 +32,19 @@ _Link:_ https://colab.research.google.com/drive/1rV-KDdv5cdVa5iJSXVyF8Jm3WuutfT8
 
 ## Insights
 ![NBA_Shot_Chart_Analytics(2023-2024)_page-0001](https://github.com/user-attachments/assets/4742c435-0472-4999-be90-2cd71b14670a)
-### 1. Overall Scoring Profile
-Nikola Jokić’s overall efficiency is elite, posting **58.3% FG** and **1.22 PPA**. This immediately signals that his scoring value is driven by consistent access to high‑efficiency areas.
 
-### 2. Efficieny by Shot Distance
+### 1. Efficieny by Shot Distance
 The dashboard shows a dramatic efficiency spike **inside 8 feet**, where he converts **67.5%** of attempts for **1.35 PPA.**  
 As shots move outward, efficiency declines:  
 • 	**8–16 ft:** 1.08 PPA  
 • 	**16–24 ft:** 0.76 PPA  
 • 	**24+ ft:** 1.12 PPA _(slightly higher due to the added scoring value of three‑point attempts, even at a similar FG%)_  
-This confirms that deep paint touches are the engine of his scoring
+
+### 2. Efficiency by Floor Zone
+The **Center zone** is his most valuable area at **1.25 PPA**.
+Side zones drop off sharply, especially:
+- **Left Side Center:** 1.18 PPA
+- **Right Side Center:** 1.10 PPA
+Still solid numbers, but nowhere near the value of the central paint.
 
 ## Recommendations
