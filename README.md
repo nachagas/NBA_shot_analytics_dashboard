@@ -36,9 +36,9 @@ _Link:_ https://colab.research.google.com/drive/1rV-KDdv5cdVa5iJSXVyF8Jm3WuutfT8
 ### 1. Efficieny by Shot Distance
 The dashboard shows a dramatic efficiency spike **inside 8 feet**, where he converts **67.5%** of attempts for **1.35 PPA.**  
 As shots move outward, efficiency declines:  
-• 	**8–16 ft:** 1.08 PPA  
-• 	**16–24 ft:** 0.76 PPA  
-• 	**24+ ft:** 1.12 PPA _(slightly higher due to the added scoring value of three‑point attempts, even at a similar FG%)_  
+- **8–16 ft:** 1.08 PPA  
+- **16–24 ft:** 0.76 PPA  
+- **24+ ft:** 1.12 PPA _(slightly higher due to the added scoring value of three‑point attempts, even at a similar FG%)_  
 
 ### 2. Efficiency by Floor Zone
 The **Center zone** is his most valuable area at **1.25 PPA**.
