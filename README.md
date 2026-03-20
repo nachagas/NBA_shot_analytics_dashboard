@@ -42,9 +42,7 @@ As shots move outward, efficiency declines:
 
 ### 2. Efficiency by Floor Zone
 The **Center zone** is his most valuable area at **1.25 PPA**.
-Side zones drop off sharply, especially:
-- **Left Side Center:** 1.18 PPA
-- **Right Side Center:** 1.10 PPA
-Still solid numbers, but nowhere near the value of the central paint.
+Side zones show some drop-off , such as **Left Side Center: 1.18 PPA**, **Right Side Center: 1.10 PPA**  
+Still solid numbers, but nowhere near the value of the central zone.
 
 ## Recommendations
