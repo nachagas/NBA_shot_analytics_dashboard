@@ -42,7 +42,23 @@ As shots move outward, efficiency declines:
 
 ### 2. Efficiency by Floor Zone
 The **Center zone** is his most valuable area at **1.25 PPA**.
-Side zones show some drop-off , such as **Left Side Center: 1.18 PPA**, **Right Side Center: 1.10 PPA**  
-Still solid numbers, but nowhere near the value of the central zone.
+Side zones show some drop-off , such as **Left Side Center: 1.18 PPA**, **Right Side Center: 1.10 PPA**. Still solid numbers, but nowhere near the value of the central zone.
+
+### 3. Shot Type Value (Points per Shot Type)
+His highest‑value shots are:  
+- **Dunk:** 1.89 PPA  
+- **Layup:** 1.42 PPA  
+- **Floater:** 1.26 PPA  
+- **Hook Shot:** 1.20 PPA  
+These are all **touch‑based, close‑range finishes,** reinforcing the earlier distance and zone insights.
+
+### 4. Shot Type Frequency
+His scoring profile is built on volume in high‑value areas:
+- **Layups** (31.4%)
+- **Hook shots** (17.1%)
+- **Floaters** (14.7%)
+Over **63%** of his attempts come from these efficient touch shots.
+
+
 
 ## Recommendations
