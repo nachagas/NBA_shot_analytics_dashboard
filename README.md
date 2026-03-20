@@ -14,9 +14,15 @@ Shot data was obtained from the open-source **NBA_Shots_04_25** repository by **
 https://github.com/DomSamangy/NBA_Shots_04_25?tab=readme-ov-file  
 https://drive.google.com/file/d/1uktZ3wcE5670ZAR5c7MciMHbu8-zPMwM/view
 
-The dataset was filtered to include only the **2023–2024 NBA season** to reduce memory usage and improve dashboard performance.
-
 ## Methodology
+### Data Preparation - Python & Pandas in Google Colab
+- Filtered the dataset to include only the **2023–2024 NBA season,** significantly lowering memory usage and improving dashboard performance
+- Loaded the raw shot‑level dataset and inspected its structure to identify redundant or unnecessary fields
+- Dropped duplicate and non‑essential columns to reduce file size and improve processing efficiency
+- Normalized the dataset by separating repeated categorical information into **dimension tables**, reducing redundancy in the main fact table
+
+
+
 ### Tools Used
 
 ## Insights
