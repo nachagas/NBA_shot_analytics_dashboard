@@ -9,6 +9,7 @@ Current defensive coverage against league MVP **Nikola Jokić** allows frequent,
 
 ## Data
 Shot data was obtained from the open-source NBA_Shots_04_25 repository by **Dom Samangy** on GitHub: https://github.com/DomSamangy/NBA_Shots_04_25?tab=readme-ov-file
+https://drive.google.com/file/d/1uktZ3wcE5670ZAR5c7MciMHbu8-zPMwM/view
 
 ## Methodology
 ### Tools Used
