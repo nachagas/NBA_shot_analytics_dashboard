@@ -31,6 +31,7 @@ _Link:_ https://colab.research.google.com/drive/1rV-KDdv5cdVa5iJSXVyF8Jm3WuutfT8
 <img width="766" height="721" alt="image" src="https://github.com/user-attachments/assets/7b30d24f-a0f1-4172-ab43-50bea93f06f6" />
 
 ## Insights
+![NBA_Shot_Chart_Analytics(2023-2024)_page-0001](https://github.com/user-attachments/assets/4742c435-0472-4999-be90-2cd71b14670a)
 ### 1. Overall Scoring Profile
 Nikola Jokić’s overall efficiency is elite, posting **58.3% FG** and **1.22 PPA**. This immediately signals that his scoring value is driven by consistent access to high‑efficiency areas.
 
