@@ -8,3 +8,12 @@ aaaaaaa
 ## Data
 
 ## Methodology
+
+### Tools Used
+*Python
+*Power Query
+*Power BI
+
+## Insights
+
+## Recommendations
