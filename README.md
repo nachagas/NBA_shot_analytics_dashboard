@@ -49,7 +49,8 @@ His highest‑value shots are:
 - **Dunk:** 1.89 PPA  
 - **Layup:** 1.42 PPA  
 - **Floater:** 1.26 PPA  
-- **Hook Shot:** 1.20 PPA  
+- **Hook Shot:** 1.20 PPA
+
 These are all **touch‑based, close‑range finishes,** reinforcing the earlier distance and zone insights.
 
 ### 4. Shot Type Frequency
