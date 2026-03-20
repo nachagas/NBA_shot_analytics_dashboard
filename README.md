@@ -31,5 +31,15 @@ _Link:_ https://colab.research.google.com/drive/1rV-KDdv5cdVa5iJSXVyF8Jm3WuutfT8
 <img width="766" height="721" alt="image" src="https://github.com/user-attachments/assets/7b30d24f-a0f1-4172-ab43-50bea93f06f6" />
 
 ## Insights
+### 1. Overall Scoring Profile
+Nikola Jokić’s overall efficiency is elite, posting **58.3% FG** and **1.22 PPA**. This immediately signals that his scoring value is driven by consistent access to high‑efficiency areas.
+
+### 2. Efficieny by Shot Distance
+The dashboard shows a dramatic efficiency spike **inside 8 feet**, where he converts **67.5%** of attempts for** 1.35 PPA.**  
+As shots move outward, efficiency declines:  
+• 	**8–16 ft:** 1.08 PPA  
+• 	**16–24 ft:** 0.76 PPA  
+• 	**24+ ft:** 1.12 PPA (buoyed by selective pick‑and‑pop threes) - _slightly higher due to the added scoring value of three‑point attempts, even at a similar FG%_  
+This confirms that deep paint touches are the engine of his scoring
 
 ## Recommendations
