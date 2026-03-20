@@ -21,7 +21,7 @@ https://drive.google.com/file/d/1uktZ3wcE5670ZAR5c7MciMHbu8-zPMwM/view
 - Dropped duplicate and non‑essential columns to reduce file size and improve processing efficiency.
 - Normalized the dataset by separating repeated categorical information into **dimension tables**, reducing redundancy in the main fact table.
 
-_Link:_ https://colab.research.google.com/drive/1rV-KDdv5cdVa5iJSXVyF8Jm3WuutfT8c#scrollTo=bNBlofqXFiT_
+_Link:_ https://colab.research.google.com/drive/1rV-KDdv5cdVa5iJSXVyF8Jm3WuutfT8c?usp=sharing
 
 ### Data Modeling & Dashboard Development - Microsoft PowerBI/Power Query
 - Imported the datasets into Power BI and constructed a star schema, linking the fact table to dimension tables.
