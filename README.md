@@ -55,7 +55,7 @@ He can make them, but they don’t hurt you the same way. Standard jump shots, s
 Jokić becomes extremely efficient when he catches the ball deep. Meet him early, fight for position, and **push his catches farther from the rim.**
 
 ### 2. Turn his drives and post-ups into mid‑range looks
-When he’s outside the paint, his scoring drops. The goal is to **keep him out of his comfort spots** and force him to take more shots from the mid‑post and elbow.
+When he’s outside the paint, his scoring drops. The goal is to keep him out of his comfort spots and force him to take more shots from the **mid‑post and elbow.**
 
 ### 3. Live with the jumpers
 If he settles for face‑up jumpers or fadeaways, that’s a win. **Contest without fouling and trust the numbers** - those shots don’t beat you over time.
