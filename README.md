@@ -14,7 +14,7 @@ Shot data was obtained from the open-source **NBA_Shots_04_25** repository by **
 https://github.com/DomSamangy/NBA_Shots_04_25?tab=readme-ov-file  
 https://drive.google.com/file/d/1uktZ3wcE5670ZAR5c7MciMHbu8-zPMwM/view
 
-The dataset was filtered to include only the 2023–2024 NBA season to reduce memory usage and improve dashboard performance.
+The dataset was filtered to include only the **2023–2024 NBA season** to reduce memory usage and improve dashboard performance.
 
 ## Methodology
 ### Tools Used
