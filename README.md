@@ -24,9 +24,9 @@ https://drive.google.com/file/d/1uktZ3wcE5670ZAR5c7MciMHbu8-zPMwM/view
 _Link:_ https://colab.research.google.com/drive/1rV-KDdv5cdVa5iJSXVyF8Jm3WuutfT8c?usp=sharing
 
 ### Data Modeling & Dashboard Development - Microsoft PowerBI/Power Query
-- Imported the datasets into Power BI and constructed a star schema, linking the fact table to dimension tables.
-- Performed additional light cleaning and type adjustments in Power Query to finalize the model structure.
-- Created DAX measures including FG%, Points Per Attempt (PPA), Shot Frequency %, and total attempts.
+- Imported the datasets into Power BI and constructed a **Data Model**, linking the fact table to dimension tables.
+- Performed additional light cleaning and type adjustments in **Power Query**.
+- Created DAX measures such as FG%, Points Per Attempt (PPA), Shot Frequency %, and total attempts.
 - Designed interactive visuals such as bar charts, shot‑type breakdowns, and zone‑based efficiency views to support analysis.
 <img width="766" height="721" alt="image" src="https://github.com/user-attachments/assets/7b30d24f-a0f1-4172-ab43-50bea93f06f6" />
 
