@@ -15,15 +15,17 @@ https://github.com/DomSamangy/NBA_Shots_04_25?tab=readme-ov-file
 https://drive.google.com/file/d/1uktZ3wcE5670ZAR5c7MciMHbu8-zPMwM/view
 
 ## Methodology
-### Data Preparation - Python & Pandas in Google Colab
+### Data Preparation - Python & Google Colab
 - Filtered the dataset to include only the **2023–2024 NBA season,** significantly lowering memory usage and improving dashboard performance.
 - Loaded the raw shot‑level dataset and inspected its structure to identify redundant or unnecessary fields.
 - Dropped duplicate and non‑essential columns to reduce file size and improve processing efficiency.
 - Normalized the dataset by separating repeated categorical information into **dimension tables**, reducing redundancy in the main fact table.
 
-
-
-### Tools Used
+### Data Modeling & Dashboard Development - Microsoft PowerBI/Power Query
+- Imported the datasets into Power BI and constructed a star schema, linking the fact table to dimension tables.
+- Performed additional light cleaning and type adjustments in Power Query to finalize the model structure.
+- Created DAX measures including FG%, Points Per Attempt (PPA), Shot Frequency %, and total attempts.
+- Designed interactive visuals such as bar charts, shot‑type breakdowns, and zone‑based efficiency views to support analysis.
 
 ## Insights
 
