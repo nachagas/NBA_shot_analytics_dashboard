@@ -1,0 +1,569 @@
+PLAYER_ID,PLAYER_NAME,CURRENT_TEAM_ID
+2544,LeBron James,Los Angeles Lakers
+101108,Chris Paul,Golden State Warriors
+200768,Kyle Lowry,Miami Heat
+200782,P.J. Tucker,LA Clippers
+201142,Kevin Durant,Phoenix Suns
+201143,Al Horford,Boston Celtics
+201144,Mike Conley,Minnesota Timberwolves
+201145,Jeff Green,Houston Rockets
+201152,Thaddeus Young,Toronto Raptors
+201565,Derrick Rose,Memphis Grizzlies
+201566,Russell Westbrook,LA Clippers
+201567,Kevin Love,Miami Heat
+201568,Danilo Gallinari,Washington Wizards
+201569,Eric Gordon,Phoenix Suns
+201572,Brook Lopez,Milwaukee Bucks
+201577,Robin Lopez,Milwaukee Bucks
+201580,JaVale McGee,Sacramento Kings
+201587,Nicolas Batum,Philadelphia 76ers
+201599,DeAndre Jordan,Denver Nuggets
+201935,James Harden,LA Clippers
+201939,Stephen Curry,Golden State Warriors
+201942,DeMar DeRozan,Chicago Bulls
+201949,James Johnson,Indiana Pacers
+201950,Jrue Holiday,Boston Celtics
+201959,Taj Gibson,New York Knicks
+201976,Patrick Beverley,Philadelphia 76ers
+201980,Danny Green,Philadelphia 76ers
+201988,Patty Mills,Miami Heat
+202066,Garrett Temple,Toronto Raptors
+202083,Wesley Matthews,Atlanta Hawks
+202330,Gordon Hayward,Charlotte Hornets
+202331,Paul George,LA Clippers
+202397,Ish Smith,Charlotte Hornets
+202681,Kyrie Irving,Dallas Mavericks
+202684,Tristan Thompson,Cleveland Cavaliers
+202685,Jonas Valanciunas,New Orleans Pelicans
+202687,Bismack Biyombo,Memphis Grizzlies
+202691,Klay Thompson,Golden State Warriors
+202692,Alec Burks,Detroit Pistons
+202693,Markieff Morris,Dallas Mavericks
+202694,Marcus Morris Sr.,Philadelphia 76ers
+202695,Kawhi Leonard,LA Clippers
+202696,Nikola Vucevic,Chicago Bulls
+202699,Tobias Harris,Philadelphia 76ers
+202704,Reggie Jackson,Denver Nuggets
+202709,Cory Joseph,Golden State Warriors
+202710,Jimmy Butler,Miami Heat
+202711,Bojan Bogdanovic,Detroit Pistons
+202722,Davis Bertans,Charlotte Hornets
+202738,Isaiah Thomas,Phoenix Suns
+203076,Anthony Davis,Los Angeles Lakers
+203078,Bradley Beal,Phoenix Suns
+203081,Damian Lillard,Milwaukee Bucks
+203083,Andre Drummond,Chicago Bulls
+203084,Harrison Barnes,Sacramento Kings
+203095,Evan Fournier,Detroit Pistons
+203109,Jae Crowder,Milwaukee Bucks
+203110,Draymond Green,Golden State Warriors
+203114,Khris Middleton,Milwaukee Bucks
+203200,Justin Holiday,Denver Nuggets
+203458,Alex Len,Sacramento Kings
+203468,CJ McCollum,New Orleans Pelicans
+203469,Cody Zeller,New Orleans Pelicans
+203471,Dennis Schroder,Toronto Raptors
+203482,Kelly Olynyk,Utah Jazz
+203484,Kentavious Caldwell-Pope,Denver Nuggets
+203486,Mason Plumlee,LA Clippers
+203488,Mike Muscala,Washington Wizards
+203490,Otto Porter Jr.,Toronto Raptors
+203493,Reggie Bullock Jr.,Houston Rockets
+203496,Robert Covington,Philadelphia 76ers
+203497,Rudy Gobert,Minnesota Timberwolves
+203501,Tim Hardaway Jr.,Dallas Mavericks
+203507,Giannis Antetokounmpo,Milwaukee Bucks
+203552,Seth Curry,Dallas Mavericks
+203648,Thanasis Antetokounmpo,Milwaukee Bucks
+203897,Zach LaVine,Chicago Bulls
+203903,Jordan Clarkson,Utah Jazz
+203914,Gary Harris,Orlando Magic
+203915,Spencer Dinwiddie,Brooklyn Nets
+203924,Jerami Grant,Portland Trail Blazers
+203925,Joe Harris,Detroit Pistons
+203926,Doug McDermott,San Antonio Spurs
+203932,Aaron Gordon,Denver Nuggets
+203933,T.J. Warren,Minnesota Timberwolves
+203935,Marcus Smart,Memphis Grizzlies
+203937,Kyle Anderson,Minnesota Timberwolves
+203939,Dwight Powell,Dallas Mavericks
+203944,Julius Randle,New York Knicks
+203952,Andrew Wiggins,Golden State Warriors
+203954,Joel Embiid,Philadelphia 76ers
+203957,Dante Exum,Dallas Mavericks
+203967,Dario Saric,Golden State Warriors
+203991,Clint Capela,Atlanta Hawks
+203992,Bogdan Bogdanovic,Atlanta Hawks
+203994,Jusuf Nurkic,Phoenix Suns
+203995,Vasilije Micic,Charlotte Hornets
+203999,Nikola Jokic,Denver Nuggets
+204001,Kristaps Porzingis,Boston Celtics
+204060,Joe Ingles,Orlando Magic
+204456,T.J. McConnell,Indiana Pacers
+1626145,Tyus Jones,Washington Wizards
+1626153,Delon Wright,Washington Wizards
+1626156,D'Angelo Russell,Los Angeles Lakers
+1626157,Karl-Anthony Towns,Minnesota Timberwolves
+1626158,Richaun Holmes,Washington Wizards
+1626162,Kelly Oubre Jr.,Philadelphia 76ers
+1626164,Devin Booker,Phoenix Suns
+1626166,Cameron Payne,Philadelphia 76ers
+1626167,Myles Turner,Indiana Pacers
+1626168,Trey Lyles,Sacramento Kings
+1626171,Bobby Portis,Milwaukee Bucks
+1626172,Kevon Looney,Golden State Warriors
+1626174,Christian Wood,Los Angeles Lakers
+1626179,Terry Rozier,Charlotte Hornets
+1626181,Norman Powell,LA Clippers
+1626192,Pat Connaughton,Milwaukee Bucks
+1626196,Josh Richardson,Miami Heat
+1626204,Larry Nance Jr.,New Orleans Pelicans
+1626220,Royce O'Neale,Brooklyn Nets
+1626224,Cedi Osman,San Antonio Spurs
+1626246,Boban Marjanovic,Houston Rockets
+1627732,Ben Simmons,Brooklyn Nets
+1627734,Domantas Sabonis,Sacramento Kings
+1627736,Malik Beasley,Milwaukee Bucks
+1627739,Kris Dunn,Utah Jazz
+1627741,Buddy Hield,Indiana Pacers
+1627742,Brandon Ingram,New Orleans Pelicans
+1627745,Damian Jones,Cleveland Cavaliers
+1627747,Caris LeVert,Cleveland Cavaliers
+1627749,Dejounte Murray,Atlanta Hawks
+1627750,Jamal Murray,Denver Nuggets
+1627751,Jakob Poeltl,Toronto Raptors
+1627752,Taurean Prince,Los Angeles Lakers
+1627759,Jaylen Brown,Boston Celtics
+1627763,Malcolm Brogdon,Portland Trail Blazers
+1627777,Georges Niang,Cleveland Cavaliers
+1627780,Gary Payton II,Golden State Warriors
+1627783,Pascal Siakam,Indiana Pacers
+1627788,Furkan Korkmaz,Philadelphia 76ers
+1627826,Ivica Zubac,LA Clippers
+1627827,Dorian Finney-Smith,Brooklyn Nets
+1627832,Fred VanVleet,Houston Rockets
+1627853,Ryan Arcidiacono,New York Knicks
+1627863,Danuel House Jr.,Philadelphia 76ers
+1627884,Derrick Jones Jr.,Dallas Mavericks
+1627885,Shaquille Harrison,Memphis Grizzlies
+1627936,Alex Caruso,Chicago Bulls
+1628365,Markelle Fultz,Orlando Magic
+1628368,De'Aaron Fox,Sacramento Kings
+1628369,Jayson Tatum,Boston Celtics
+1628370,Malik Monk,Sacramento Kings
+1628371,Jonathan Isaac,Orlando Magic
+1628372,Dennis Smith Jr.,Brooklyn Nets
+1628373,Frank Ntilikina,Charlotte Hornets
+1628374,Lauri Markkanen,Utah Jazz
+1628378,Donovan Mitchell,Cleveland Cavaliers
+1628379,Luke Kennard,Memphis Grizzlies
+1628380,Zach Collins,San Antonio Spurs
+1628381,John Collins,Utah Jazz
+1628384,OG Anunoby,Toronto Raptors
+1628385,Harry Giles III,Brooklyn Nets
+1628386,Jarrett Allen,Cleveland Cavaliers
+1628389,Bam Adebayo,Miami Heat
+1628391,D.J. Wilson,Philadelphia 76ers
+1628392,Isaiah Hartenstein,New York Knicks
+1628398,Kyle Kuzma,Washington Wizards
+1628401,Derrick White,Boston Celtics
+1628404,Josh Hart,New York Knicks
+1628415,Dillon Brooks,Houston Rockets
+1628418,Thomas Bryant,Miami Heat
+1628420,Monte Morris,Minnesota Timberwolves
+1628424,Kobi Simmons,Toronto Raptors
+1628426,Sasha Vezenkov,Sacramento Kings
+1628436,Luke Kornet,Boston Celtics
+1628449,Chris Boucher,Toronto Raptors
+1628464,Daniel Theis,LA Clippers
+1628467,Maxi Kleber,Dallas Mavericks
+1628470,Torrey Craig,Chicago Bulls
+1628960,Grayson Allen,Phoenix Suns
+1628962,Udoka Azubuike,Phoenix Suns
+1628963,Marvin Bagley III,Washington Wizards
+1628964,Mo Bamba,Philadelphia 76ers
+1628966,Keita Bates-Diop,Phoenix Suns
+1628969,Mikal Bridges,Brooklyn Nets
+1628970,Miles Bridges,Charlotte Hornets
+1628971,Bruce Brown,Indiana Pacers
+1628972,Troy Brown Jr.,Minnesota Timberwolves
+1628973,Jalen Brunson,New York Knicks
+1628975,Jevon Carter,Chicago Bulls
+1628976,Wendell Carter Jr.,Orlando Magic
+1628977,Hamidou Diallo,Washington Wizards
+1628978,Donte DiVincenzo,New York Knicks
+1628981,Bruno Fernando,Atlanta Hawks
+1628983,Shai Gilgeous-Alexander,Oklahoma City Thunder
+1628984,Devonte' Graham,San Antonio Spurs
+1628988,Aaron Holiday,Houston Rockets
+1628989,Kevin Huerter,Sacramento Kings
+1628991,Jaren Jackson Jr.,Memphis Grizzlies
+1628995,Kevin Knox II,Detroit Pistons
+1628997,Caleb Martin,Miami Heat
+1628998,Cody Martin,Charlotte Hornets
+1629001,De'Anthony Melton,Philadelphia 76ers
+1629002,Chimezie Metu,Phoenix Suns
+1629003,Shake Milton,Minnesota Timberwolves
+1629004,Svi Mykhailiuk,Boston Celtics
+1629006,Josh Okogie,Phoenix Suns
+1629007,Jontay Porter,Toronto Raptors
+1629008,Michael Porter Jr.,Denver Nuggets
+1629010,Jerome Robinson,Golden State Warriors
+1629011,Mitchell Robinson,New York Knicks
+1629012,Collin Sexton,Utah Jazz
+1629013,Landry Shamet,Washington Wizards
+1629014,Anfernee Simons,Portland Trail Blazers
+1629018,Gary Trent Jr.,Toronto Raptors
+1629020,Jarred Vanderbilt,Los Angeles Lakers
+1629021,Moritz Wagner,Orlando Magic
+1629022,Lonnie Walker IV,Brooklyn Nets
+1629023,P.J. Washington,Charlotte Hornets
+1629026,Kenrich Williams,Oklahoma City Thunder
+1629027,Trae Young,Atlanta Hawks
+1629028,Deandre Ayton,Portland Trail Blazers
+1629029,Luka Doncic,Dallas Mavericks
+1629048,Goga Bitadze,Orlando Magic
+1629052,Oshae Brissett,Boston Celtics
+1629057,Robert Williams III,Portland Trail Blazers
+1629060,Rui Hachimura,Los Angeles Lakers
+1629111,Jock Landale,Houston Rockets
+1629117,Wenyen Gabriel,Memphis Grizzlies
+1629130,Duncan Robinson,Miami Heat
+1629139,Yuta Watanabe,Phoenix Suns
+1629162,Jordan McLaughlin,Minnesota Timberwolves
+1629216,Gabe Vincent,Los Angeles Lakers
+1629232,Kaiser Gates,New Orleans Pelicans
+1629234,Drew Eubanks,Phoenix Suns
+1629308,Juan Toscano-Anderson,Sacramento Kings
+1629312,Haywood Highsmith,Miami Heat
+1629599,Amir Coffey,LA Clippers
+1629603,Mamadi Diakite,San Antonio Spurs
+1629610,DaQuan Jeffries,New York Knicks
+1629611,Terance Mann,LA Clippers
+1629614,Andrew Nembhard,Indiana Pacers
+1629618,Jalen Pickett,Denver Nuggets
+1629622,Max Strus,Cleveland Cavaliers
+1629623,Lindell Wigginton,Milwaukee Bucks
+1629626,Bol Bol,Phoenix Suns
+1629627,Zion Williamson,New Orleans Pelicans
+1629628,RJ Barrett,Toronto Raptors
+1629629,Cam Reddish,Los Angeles Lakers
+1629630,Ja Morant,Memphis Grizzlies
+1629631,De'Andre Hunter,Atlanta Hawks
+1629632,Coby White,Chicago Bulls
+1629634,Brandon Clarke,Memphis Grizzlies
+1629636,Darius Garland,Cleveland Cavaliers
+1629637,Jaxson Hayes,Los Angeles Lakers
+1629638,Nickeil Alexander-Walker,Minnesota Timberwolves
+1629639,Tyler Herro,Miami Heat
+1629640,Keldon Johnson,San Antonio Spurs
+1629642,Nassir Little,Phoenix Suns
+1629643,Chuma Okeke,Orlando Magic
+1629646,Charles Bassey,San Antonio Spurs
+1629647,Darius Bazley,Utah Jazz
+1629650,Moses Brown,Portland Trail Blazers
+1629651,Nic Claxton,Brooklyn Nets
+1629652,Luguentz Dort,Oklahoma City Thunder
+1629655,Daniel Gafford,Washington Wizards
+1629656,Quentin Grimes,New York Knicks
+1629659,Talen Horton-Tucker,Utah Jazz
+1629660,Ty Jerome,Cleveland Cavaliers
+1629661,Cameron Johnson,Brooklyn Nets
+1629667,Jalen McDaniels,Toronto Raptors
+1629669,Jaylen Nowell,Memphis Grizzlies
+1629670,Jordan Nwora,Toronto Raptors
+1629673,Jordan Poole,Washington Wizards
+1629674,Neemias Queta,Boston Celtics
+1629675,Naz Reid,Minnesota Timberwolves
+1629677,Luka Samanic,Utah Jazz
+1629678,Admiral Schofield,Orlando Magic
+1629680,Matisse Thybulle,Portland Trail Blazers
+1629684,Grant Williams,Dallas Mavericks
+1629685,Dylan Windler,Atlanta Hawks
+1629716,Marques Bolden,Charlotte Hornets
+1629717,Armoni Brooks,Brooklyn Nets
+1629718,Charlie Brown Jr.,New York Knicks
+1629723,John Konchar,Memphis Grizzlies
+1629726,Garrison Mathews,Atlanta Hawks
+1629731,Dean Wade,Cleveland Cavaliers
+1629750,Javonte Green,Chicago Bulls
+1629875,Xavier Moon,LA Clippers
+1630162,Anthony Edwards,Minnesota Timberwolves
+1630163,LaMelo Ball,Charlotte Hornets
+1630164,James Wiseman,Detroit Pistons
+1630165,Killian Hayes,Detroit Pistons
+1630166,Deni Avdija,Washington Wizards
+1630167,Obi Toppin,Indiana Pacers
+1630168,Onyeka Okongwu,Atlanta Hawks
+1630169,Tyrese Haliburton,Indiana Pacers
+1630170,Devin Vassell,San Antonio Spurs
+1630171,Isaac Okoro,Cleveland Cavaliers
+1630172,Patrick Williams,Chicago Bulls
+1630173,Precious Achiuwa,New York Knicks
+1630174,Aaron Nesmith,Indiana Pacers
+1630175,Cole Anthony,Orlando Magic
+1630177,Theo Maledon,Charlotte Hornets
+1630178,Tyrese Maxey,Philadelphia 76ers
+1630180,Saddiq Bey,Atlanta Hawks
+1630181,R.J. Hampton,Miami Heat
+1630182,Josh Green,Dallas Mavericks
+1630183,Jaden McDaniels,Minnesota Timberwolves
+1630184,Kira Lewis Jr.,New Orleans Pelicans
+1630186,Jahmi'us Ramsey,Toronto Raptors
+1630188,Jalen Smith,Indiana Pacers
+1630191,Isaiah Stewart,Detroit Pistons
+1630192,Zeke Nnaji,Denver Nuggets
+1630193,Immanuel Quickley,Toronto Raptors
+1630194,Paul Reed,Philadelphia 76ers
+1630196,Filip Petrusev,Sacramento Kings
+1630197,Aleksej Pokusevski,Charlotte Hornets
+1630198,Isaiah Joe,Oklahoma City Thunder
+1630200,Tre Jones,San Antonio Spurs
+1630201,Malachi Flynn,Detroit Pistons
+1630202,Payton Pritchard,Boston Celtics
+1630204,Ashton Hagans,Portland Trail Blazers
+1630205,Lamar Stevens,Memphis Grizzlies
+1630207,Nate Hinton,Houston Rockets
+1630208,Nick Richards,Charlotte Hornets
+1630209,Omer Yurtseven,Utah Jazz
+1630214,Xavier Tillman,Memphis Grizzlies
+1630215,Jared Butler,Washington Wizards
+1630217,Desmond Bane,Memphis Grizzlies
+1630219,Skylar Mays,Portland Trail Blazers
+1630222,Mason Jones,Sacramento Kings
+1630224,Jalen Green,Houston Rockets
+1630227,Daishen Nix,Minnesota Timberwolves
+1630228,Jonathan Kuminga,Golden State Warriors
+1630230,Naji Marshall,New Orleans Pelicans
+1630231,KJ Martin,Philadelphia 76ers
+1630235,Trent Forrest,Atlanta Hawks
+1630240,Saben Lee,Phoenix Suns
+1630241,Sam Merrill,Cleveland Cavaliers
+1630243,Trevelin Queen,Orlando Magic
+1630245,Ayo Dosunmu,Chicago Bulls
+1630249,Vit Krejci,Atlanta Hawks
+1630256,Jae'Sean Tate,Houston Rockets
+1630259,Jordan Ford,Sacramento Kings
+1630264,Anthony Gill,Washington Wizards
+1630284,Kevon Harris,Orlando Magic
+1630285,Zavier Simpson,Memphis Grizzlies
+1630288,Jeff Dowtin Jr.,Philadelphia 76ers
+1630296,Braxton Key,Denver Nuggets
+1630311,Pat Spencer,Golden State Warriors
+1630314,Brandon Williams,Dallas Mavericks
+1630322,Lindy Waters III,Oklahoma City Thunder
+1630346,Matt Ryan,New Orleans Pelicans
+1630526,Jeremiah Robinson-Earl,New Orleans Pelicans
+1630527,Brandon Boston Jr.,LA Clippers
+1630529,Herbert Jones,New Orleans Pelicans
+1630530,Trey Murphy III,New Orleans Pelicans
+1630531,Jaden Springer,Philadelphia 76ers
+1630532,Franz Wagner,Orlando Magic
+1630533,Ziaire Williams,Memphis Grizzlies
+1630534,Ochai Agbaji,Utah Jazz
+1630535,Greg Brown III,Dallas Mavericks
+1630537,Chris Duarte,Sacramento Kings
+1630538,Bones Hyland,LA Clippers
+1630540,Miles McBride,New York Knicks
+1630541,Moses Moody,Golden State Warriors
+1630543,Isaiah Jackson,Indiana Pacers
+1630544,Tre Mann,Charlotte Hornets
+1630547,James Bouknight,Charlotte Hornets
+1630548,Johnny Juzang,Utah Jazz
+1630549,Day'Ron Sharpe,Brooklyn Nets
+1630550,JT Thor,Charlotte Hornets
+1630551,Justin Champagnie,Washington Wizards
+1630552,Jalen Johnson,Atlanta Hawks
+1630553,Keon Johnson,Brooklyn Nets
+1630554,Jason Preston,Utah Jazz
+1630556,Kessler Edwards,Sacramento Kings
+1630557,Corey Kispert,Washington Wizards
+1630558,Davion Mitchell,Sacramento Kings
+1630559,Austin Reaves,Los Angeles Lakers
+1630560,Cam Thomas,Brooklyn Nets
+1630561,David Duke Jr.,San Antonio Spurs
+1630562,Matt Hurt,Memphis Grizzlies
+1630563,Joshua Primo,LA Clippers
+1630564,RaiQuan Gray,San Antonio Spurs
+1630567,Scottie Barnes,Toronto Raptors
+1630568,Luka Garza,Minnesota Timberwolves
+1630570,Trendon Watford,Brooklyn Nets
+1630572,Sandro Mamukelashvili,San Antonio Spurs
+1630573,Sam Hauser,Boston Celtics
+1630577,Julian Champagnie,San Antonio Spurs
+1630578,Alperen Sengun,Houston Rockets
+1630579,Jericho Sims,New York Knicks
+1630581,Josh Giddey,Oklahoma City Thunder
+1630583,Santi Aldama,Memphis Grizzlies
+1630586,Usman Garuba,Golden State Warriors
+1630587,Isaiah Livers,Detroit Pistons
+1630590,Scotty Pippen Jr.,Memphis Grizzlies
+1630591,Jalen Suggs,Orlando Magic
+1630592,Jalen Wilson,Brooklyn Nets
+1630595,Cade Cunningham,Detroit Pistons
+1630596,Evan Mobley,Cleveland Cavaliers
+1630598,Aaron Wiggins,Oklahoma City Thunder
+1630600,Isaiah Mobley,Cleveland Cavaliers
+1630604,E.J. Liddell,New Orleans Pelicans
+1630610,DeJon Jarreau,Memphis Grizzlies
+1630611,Gui Santos,Golden State Warriors
+1630618,D.J. Carton,Toronto Raptors
+1630622,Jalen Crutcher,New Orleans Pelicans
+1630625,Dalano Banton,Portland Trail Blazers
+1630631,Jose Alvarado,New Orleans Pelicans
+1630639,A.J. Lawson,Dallas Mavericks
+1630641,Ibou Badji,Portland Trail Blazers
+1630643,Jay Huff,Denver Nuggets
+1630647,Eugene Omoruyi,Washington Wizards
+1630649,Stanley Umude,Detroit Pistons
+1630658,Colin Castleton,Los Angeles Lakers
+1630678,Terry Taylor,Chicago Bulls
+1630688,Ish Wainright,Portland Trail Blazers
+1630692,Jordan Goodwin,Phoenix Suns
+1630695,Micah Potter,Utah Jazz
+1630696,Dru Smith,Miami Heat
+1630699,MarJon Beauchamp,Milwaukee Bucks
+1630700,Dyson Daniels,New Orleans Pelicans
+1630702,Jaden Hardy,Dallas Mavericks
+1630703,Scoot Henderson,Portland Trail Blazers
+1630846,Olivier Sarr,Oklahoma City Thunder
+1630929,Henri Drell,Chicago Bulls
+1631093,Jaden Ivey,Detroit Pistons
+1631094,Paolo Banchero,Orlando Magic
+1631095,Jabari Smith Jr.,Houston Rockets
+1631096,Chet Holmgren,Oklahoma City Thunder
+1631097,Bennedict Mathurin,Indiana Pacers
+1631098,Johnny Davis,Washington Wizards
+1631099,Keegan Murray,Sacramento Kings
+1631100,AJ Griffin,Atlanta Hawks
+1631101,Shaedon Sharpe,Portland Trail Blazers
+1631102,TyTy Washington Jr.,Milwaukee Bucks
+1631103,Malaki Branham,San Antonio Spurs
+1631104,Blake Wesley,San Antonio Spurs
+1631105,Jalen Duren,Detroit Pistons
+1631106,Tari Eason,Houston Rockets
+1631107,Nikola Jovic,Miami Heat
+1631108,Max Christie,Los Angeles Lakers
+1631109,Mark Williams,Charlotte Hornets
+1631110,Jeremy Sochan,San Antonio Spurs
+1631111,Wendell Moore Jr.,Minnesota Timberwolves
+1631112,Kendall Brown,Indiana Pacers
+1631114,Jalen Williams,Oklahoma City Thunder
+1631115,Orlando Robinson,Miami Heat
+1631116,Patrick Baldwin Jr.,Washington Wizards
+1631117,Walker Kessler,Utah Jazz
+1631119,Jaylin Williams,Oklahoma City Thunder
+1631120,JD Davison,Boston Celtics
+1631121,Bryce McGowens,Charlotte Hornets
+1631123,Jamaree Bouyea,Portland Trail Blazers
+1631124,Julian Strawther,Denver Nuggets
+1631128,Christian Braun,Denver Nuggets
+1631131,Oscar Tshiebwe,Indiana Pacers
+1631133,Jabari Walker,Portland Trail Blazers
+1631157,Ryan Rollins,Washington Wizards
+1631159,Leonard Miller,Minnesota Timberwolves
+1631165,Keon Ellis,Sacramento Kings
+1631167,Izaiah Brockington,New Orleans Pelicans
+1631169,Josh Minott,Minnesota Timberwolves
+1631170,Jaime Jaquez Jr.,Miami Heat
+1631172,Ousmane Dieng,Oklahoma City Thunder
+1631173,Terquavion Smith,Philadelphia 76ers
+1631197,Jared Rhoden,Detroit Pistons
+1631200,Kris Murray,Portland Trail Blazers
+1631204,Marcus Sasser,Detroit Pistons
+1631205,Buddy Boeheim,Detroit Pistons
+1631207,Dalen Terry,Chicago Bulls
+1631209,Isaiah Wong,Indiana Pacers
+1631210,Jacob Toppin,New York Knicks
+1631212,Peyton Watson,Denver Nuggets
+1631214,Alondes Williams,Miami Heat
+1631216,Caleb Houstan,Orlando Magic
+1631217,Moussa Diabate,LA Clippers
+1631218,Trayce Jackson-Davis,Golden State Warriors
+1631220,Dereon Seabron,New Orleans Pelicans
+1631221,Collin Gillespie,Denver Nuggets
+1631222,Jake LaRavia,Memphis Grizzlies
+1631223,David Roddy,Memphis Grizzlies
+1631230,Dominick Barlow,San Antonio Spurs
+1631241,Javon Freeman-Liberty,Toronto Raptors
+1631243,Mouhamed Gueye,Atlanta Hawks
+1631245,Quenton Jackson,Indiana Pacers
+1631246,Vince Williams Jr.,Memphis Grizzlies
+1631250,Pete Nance,Cleveland Cavaliers
+1631254,Kenneth Lofton Jr.,Memphis Grizzlies
+1631257,Jermaine Samuels Jr.,Houston Rockets
+1631260,AJ Green,Milwaukee Bucks
+1631262,Jules Bernard,Washington Wizards
+1631288,Jamal Cain,Miami Heat
+1631298,Jack White,Memphis Grizzlies
+1631303,Justin Minaya,Portland Trail Blazers
+1631306,Cole Swider,Miami Heat
+1631311,Lester Quinones,Golden State Warriors
+1631321,Sidy Cissoko,San Antonio Spurs
+1631323,Simone Fontecchio,Utah Jazz
+1631338,Mouhamadou Gueye,Toronto Raptors
+1631367,Jacob Gilyard,Memphis Grizzlies
+1631376,Dmytro Skapintsev,New York Knicks
+1631386,Taze Moore,Portland Trail Blazers
+1631466,Nate Williams,Houston Rockets
+1641705,Victor Wembanyama,San Antonio Spurs
+1641706,Brandon Miller,Charlotte Hornets
+1641707,Taylor Hendricks,Utah Jazz
+1641708,Amen Thompson,Houston Rockets
+1641709,Ausar Thompson,Detroit Pistons
+1641710,Anthony Black,Orlando Magic
+1641711,Gradey Dick,Toronto Raptors
+1641712,Rayan Rupert,Portland Trail Blazers
+1641713,GG Jackson,Memphis Grizzlies
+1641715,Cam Whitmore,Houston Rockets
+1641716,Jarace Walker,Indiana Pacers
+1641717,Cason Wallace,Oklahoma City Thunder
+1641718,Keyonte George,Utah Jazz
+1641720,Jalen Hood-Schifino,Los Angeles Lakers
+1641721,Maxwell Lewis,Los Angeles Lakers
+1641722,Jordan Hawkins,New Orleans Pelicans
+1641723,Kobe Bufkin,Atlanta Hawks
+1641724,Jett Howard,Orlando Magic
+1641726,Dereck Lively II,Dallas Mavericks
+1641727,Dariq Whitehead,Brooklyn Nets
+1641729,Brice Sensabaugh,Utah Jazz
+1641730,Noah Clowney,Brooklyn Nets
+1641731,Bilal Coulibaly,Washington Wizards
+1641732,Colby Jones,Sacramento Kings
+1641733,Nick Smith Jr.,Charlotte Hornets
+1641734,Emoni Bates,Cleveland Cavaliers
+1641735,Amari Bailey,Charlotte Hornets
+1641738,Kobe Brown,LA Clippers
+1641739,Toumani Camara,Portland Trail Blazers
+1641741,Ricky Council IV,Philadelphia 76ers
+1641745,Adam Flagler,Oklahoma City Thunder
+1641748,Andre Jackson Jr.,Milwaukee Bucks
+1641749,Keyontae Johnson,Oklahoma City Thunder
+1641753,Chris Livingston,Milwaukee Bucks
+1641754,Seth Lundy,Atlanta Hawks
+1641757,Jordan Miller,LA Clippers
+1641763,Julian Phillips,Chicago Bulls
+1641764,Brandin Podziemski,Golden State Warriors
+1641765,Olivier-Maxence Prosper,Dallas Mavericks
+1641766,Adama Sanogo,Chicago Bulls
+1641767,Ben Sheppard,Indiana Pacers
+1641771,Jalen Slawson,Sacramento Kings
+1641774,Tristan Vukcevic,Washington Wizards
+1641775,Jordan Walsh,Boston Celtics
+1641778,Leaky Black,Charlotte Hornets
+1641787,Tosan Evbuomwan,Detroit Pistons
+1641788,Alex Fudge,Dallas Mavericks
+1641793,D'Moi Hodge,Los Angeles Lakers
+1641806,Markquis Nowell,Toronto Raptors
+1641809,Drew Peterson,Boston Celtics
+1641816,Hunter Tyson,Denver Nuggets
+1641847,Andrew Funk,Chicago Bulls
+1641851,Timmy Allen,Memphis Grizzlies
+1641854,Craig Porter Jr.,Cleveland Cavaliers
+1641871,Duop Reath,Portland Trail Blazers
+1641877,Nathan Mensah,Charlotte Hornets
+1641926,Dexter Dennis,Dallas Mavericks
+1641931,Onuralp Bitim,Chicago Bulls
+1641970,Maozinha Pereira,Memphis Grizzlies
+1641998,Trey Jemison,Memphis Grizzlies
+1642013,Malik Williams,Toronto Raptors
