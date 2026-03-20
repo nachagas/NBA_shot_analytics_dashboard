@@ -5,7 +5,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 This project is an interactive Power BI dashboard designed to analyze NBA shot data for **defensive game planning.** It highlights opponent shot tendencies, efficiency by zone and distance, and shot selection patterns to help identify ways to limit high-value attempts and reduce overall scoring efficiency.
 
 ## Problem Statement
-Current defensive coverage against league MVP **Nikola Jokić** allows frequent, high-efficiency shots in the paint, resulting in a Points per Attempt (PPA) of ~1.22. The objective is to drive him out of his comfort zones and **lower his PPA to ≤1.00** by adjusting the defensive scheme.
+Current defensive coverage against league MVP **Nikola Jokić** allows frequent, high-efficiency shots in the paint, resulting in a Points per Attempt (PPA) of ~1.22 (above the league average of 1.15 PPA). The objective is to drive him out of his comfort zones and **lower his PPA to ~1.15** by adjusting the defensive scheme.
 
 ## Data
 Shot‑level NBA data including shot coordinates, distances, zones, shot types, and make/miss outcomes. The dataset provides enough detail to analyze player tendencies, efficiency, and scoring patterns.  
