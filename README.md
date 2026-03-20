@@ -4,6 +4,7 @@ An interactive Power BI dashboard analyzing NBA 2023–2024 shot data to support
 ## Overview
 
 ## Problem Statement
+Current defensive coverage against Nikola Jokić allows frequent, high-efficiency shots in the paint, resulting in a Points per Attempt (PPA) of ~1.22. The goal is to disrupt his preferred areas by adjusting the defensive scheme, lowering his PPA to ≤1.00.
 
 ## Data
 
