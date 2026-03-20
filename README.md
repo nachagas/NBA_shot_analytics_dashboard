@@ -60,6 +60,16 @@ His scoring profile is built on volume in high‑value areas:
 - **Floaters** (14.7%)
 Over **63%** of his attempts come from these efficient touch shots.
 
-
-
 ## Recommendations
+
+### 1. Make his paint touches tougher
+Jokić becomes extremely efficient when he catches the ball deep. Meet him early, fight for position, and **push his catches farther from the rim.**
+
+### 2. Turn his drives and post-ups into mid‑range looks
+When he’s outside the paint, his scoring drops. The goal is to **keep him out of his comfort spots** and force him to take more shots from the mid‑post and elbow.
+
+### 3. Live with the jumpers
+If he settles for face‑up jumpers or fadeaways, that’s a win. **Contest without fouling and trust the numbers** - those shots don’t beat you over time.
+
+### 4. Take away his touch shots
+Hooks, floaters, and short push shots are where he does the most damage. To disrupt those, **bring late help from the weak side** and **use length to bother his release.**
