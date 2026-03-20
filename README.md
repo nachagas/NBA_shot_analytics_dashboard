@@ -9,11 +9,12 @@ Current defensive coverage against league MVP **Nikola Jokić** allows frequent,
 
 ## Data
 Shot‑level NBA data including shot coordinates, distances, zones, shot types, and make/miss outcomes. The dataset provides enough detail to analyze player tendencies, efficiency, and scoring patterns.  
-The dataset was filtered to include only the 2023–2024 NBA season to reduce memory usage and improve dashboard performance.
 
 Shot data was obtained from the open-source **NBA_Shots_04_25** repository by **Dom Samangy** on GitHub:  
 https://github.com/DomSamangy/NBA_Shots_04_25?tab=readme-ov-file  
 https://drive.google.com/file/d/1uktZ3wcE5670ZAR5c7MciMHbu8-zPMwM/view
+
+The dataset was filtered to include only the 2023–2024 NBA season to reduce memory usage and improve dashboard performance.
 
 ## Methodology
 ### Tools Used
