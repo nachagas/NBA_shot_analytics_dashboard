@@ -36,7 +36,7 @@ _Link:_ https://colab.research.google.com/drive/1rV-KDdv5cdVa5iJSXVyF8Jm3WuutfT8
 Nikola Jokić’s overall efficiency is elite, posting **58.3% FG** and **1.22 PPA**. This immediately signals that his scoring value is driven by consistent access to high‑efficiency areas.
 
 ### 2. Efficieny by Shot Distance
-The dashboard shows a dramatic efficiency spike **inside 8 feet**, where he converts **67.5%** of attempts for** 1.35 PPA.**  
+The dashboard shows a dramatic efficiency spike **inside 8 feet**, where he converts **67.5%** of attempts for **1.35 PPA.**  
 As shots move outward, efficiency declines:  
 • 	**8–16 ft:** 1.08 PPA  
 • 	**16–24 ft:** 0.76 PPA  
