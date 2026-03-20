@@ -1,6 +1,4 @@
 # NBA_shot_analytics_dashboard
-An interactive Power BI dashboard analyzing NBA 2023–2024 shot data to support defensive game planning. It highlights opponent shot tendencies, efficiency zones, and shot selection patterns to inform scheme adjustments.
-
 ## Overview
 This project is an interactive Power BI dashboard designed to analyze NBA shot data for **defensive game planning.** It highlights opponent shot tendencies, efficiency by zone and distance, and shot selection patterns to help identify ways to limit high-value attempts and reduce overall scoring efficiency.
 
