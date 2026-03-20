@@ -28,6 +28,7 @@ _Link:_ https://colab.research.google.com/drive/1rV-KDdv5cdVa5iJSXVyF8Jm3WuutfT8
 - Performed additional light cleaning and type adjustments in Power Query to finalize the model structure.
 - Created DAX measures including FG%, Points Per Attempt (PPA), Shot Frequency %, and total attempts.
 - Designed interactive visuals such as bar charts, shot‑type breakdowns, and zone‑based efficiency views to support analysis.
+<img width="766" height="721" alt="image" src="https://github.com/user-attachments/assets/7b30d24f-a0f1-4172-ab43-50bea93f06f6" />
 
 ## Insights
 
