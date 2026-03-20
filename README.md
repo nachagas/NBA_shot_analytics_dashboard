@@ -39,7 +39,7 @@ The dashboard shows a dramatic efficiency spike **inside 8 feet**, where he conv
 As shots move outward, efficiency declines:  
 • 	**8–16 ft:** 1.08 PPA  
 • 	**16–24 ft:** 0.76 PPA  
-• 	**24+ ft:** 1.12 PPA (buoyed by selective pick‑and‑pop threes) - _slightly higher due to the added scoring value of three‑point attempts, even at a similar FG%_  
+• 	**24+ ft:** 1.12 PPA _(slightly higher due to the added scoring value of three‑point attempts, even at a similar FG%)_  
 This confirms that deep paint touches are the engine of his scoring
 
 ## Recommendations
