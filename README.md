@@ -38,27 +38,16 @@ The dashboard shows a dramatic efficiency spike **inside 8 feet**, where he conv
 As shots move outward, efficiency declines:  
 - **8–16 ft:** 1.08 PPA  
 - **16–24 ft:** 0.76 PPA  
-- **24+ ft:** 1.12 PPA _(slightly higher due to the added scoring value of three‑point attempts, even at a similar FG%)_  
+- **24+ ft:** 1.12 PPA _(boosted by the extra value of threes, even at similar FG%)_  
 
 ### 2. Efficiency by Floor Zone
-The **Center zone** is his most valuable area at **1.25 PPA**.
-Side zones show some drop-off , such as **Left Side Center: 1.18 PPA**, **Right Side Center: 1.10 PPA**. Still solid numbers, but nowhere near the value of the central zone.
+The **Center zone** is his most productive area at **1.25 PPA**. As he moves toward the sides, his efficiency dips — still good, but not nearly as punishing as the middle of the paint.
 
-### 3. Shot Type Value (Points per Shot Type)
-His highest‑value shots are:  
-- **Dunk:** 1.89 PPA  
-- **Layup:** 1.42 PPA  
-- **Floater:** 1.26 PPA  
-- **Hook Shot:** 1.20 PPA
+### 3. His Touch Shots drive his Scoring
+Layups, hooks, and floaters make up more than **60%** of his attempts — and they’re also his most efficient shots., reinforcing the earlier distance and zone insights.
 
-These are all **touch‑based, close‑range finishes,** reinforcing the earlier distance and zone insights.
-
-### 4. Shot Type Frequency
-His scoring profile is built on volume in high‑value areas:
-- **Layups** (31.4%)
-- **Hook shots** (17.1%)
-- **Floaters** (14.7%)
-Over **63%** of his attempts come from these efficient touch shots.
+### 4. Jumpshots are Acceptable Outcomes
+He can make them, but they don’t hurt you the same way. Standard jump shots, step‑backs, and fadeaways all come in well below his paint efficiency.
 
 ## Recommendations
 
