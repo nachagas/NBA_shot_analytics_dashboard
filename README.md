@@ -12,6 +12,8 @@ Shot data was obtained from the open-source **NBA_Shots_04_25** repository by **
 https://github.com/DomSamangy/NBA_Shots_04_25?tab=readme-ov-file  
 https://drive.google.com/file/d/1uktZ3wcE5670ZAR5c7MciMHbu8-zPMwM/view
 
+<img width="1785" height="454" alt="image" src="https://github.com/user-attachments/assets/af1b965c-0ec4-4d46-bf44-99de2813f415" />
+
 ## Methodology
 ### Data Preparation - Python & Google Colab
 - Filtered the dataset to include only the **2023–2024 NBA season,** significantly lowering memory usage and improving dashboard performance.
