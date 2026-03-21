@@ -36,27 +36,33 @@ The dashboard shows a dramatic efficiency spike **inside 8 feet**, where he conv
 As shots move outward, efficiency declines:  
 - **8–16 ft:** 1.08 PPA  
 - **16–24 ft:** 0.76 PPA  
-- **24+ ft:** 1.12 PPA _(boosted by the extra value of threes, even at similar FG%)_  
+- **24+ ft:** 1.12 PPA _(boosted by the extra value of the 3-Point shot, even at similar FG%)_  
+
+Even though his raw FG% on threes is similar to mid‑range, the 3‑point value makes those shots meaningfully more efficient than anything in the mid‑range band
 
 ### 2. Efficiency by Floor Zone
 The **Center zone** is his most productive area at **1.25 PPA**. As he moves toward the sides, his efficiency dips — still good, but not nearly as punishing as the middle of the paint.
 
-### 3. His Touch Shots drive his Scoring
-Layups, hooks, and floaters make up more than **60%** of his attempts — and they’re also his most efficient shots., reinforcing the earlier distance and zone insights.
+### 3. Touch Shots Drive His Scoring
+**Layups, hooks, and floaters** make up more than **60%** of his attempts — and they’re also his most efficient shots.
+This reinforces the distance and zone findings: **his scoring engine is built on touch shots, not jumpers.**
 
-### 4. Jumpshots are Acceptable Outcomes
-He can make them, but they don’t hurt you the same way. Standard jump shots, step‑backs, and fadeaways all come in well below his paint efficiency.
+### 4. Jumpshots Are Acceptable Outcomes
+He can make them, but they don’t hurt you the same way. Standard jump shots, step‑backs, and fadeaways all come in well below his paint efficiency. 
+If he’s going to shoot away from the rim, **you’d much rather those be mid‑range than threes,** because threes at least carry the mathematical upside for him.
 
 ## Recommendations
 
-### 1. Make his paint touches tougher
+### 1. Make His Paint Touches Tougher
 Jokić becomes extremely efficient when he catches the ball deep. Meet him early, fight for position, and **push his catches farther from the rim.**
 
-### 2. Turn his drives and post-ups into mid‑range looks
-When he’s outside the paint, his scoring drops. The goal is to keep him out of his comfort spots and force him to take more shots from the **mid‑post and elbow.**
+### 2. Turn Drives and Post‑Ups Into Mid‑Range Looks
+If he’s outside the paint, **your priority is to keep him from stepping into a three or re‑entering the paint.**  
+Force him into **elbow jumpers, short fades, and mid‑post turnarounds** — these are his least efficient outcomes.
 
-### 3. Live with the jumpers
-If he settles for face‑up jumpers or fadeaways, that’s a win. **Contest without fouling and trust the numbers** - those shots don’t beat you over time.
+### 3. Jumpshots Are Acceptable Outcomes
+A contested three is still better than a paint touch, but **a contested mid‑range jumper is the true win.**
+Don’t overreact to his threes; they’re still far less damaging than his touch shots - **Contest without fouling and trust the numbers**
 
-### 4. Take away his touch shots
-Hooks, floaters, and short push shots are where he does the most damage. To disrupt those, **bring late help from the weak side** and **use length to bother his release.**
+### 4. Take Away His Touch Shots
+Hooks, floaters, and short push shots are where he does the most damage. To disrupt those, **bring late help from the weak side, use length to bother his release, and make him finish over bodies instead of in rhythm.**
