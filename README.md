@@ -38,7 +38,7 @@ As shots move outward, efficiency declines:
 - **16–24 ft:** 0.76 PPA  
 - **24+ ft:** 1.12 PPA _(boosted by the extra value of the 3-Point shot, even at similar FG%)_  
 
-Even though his raw FG% on threes is similar to mid‑range, the 3‑point value makes those shots meaningfully more efficient than anything in the mid‑range band
+Even though his raw FG% on threes is similar to mid‑range, the 3‑point value makes those shots meaningfully more efficient than anything in the mid‑range area.
 
 ### 2. Efficiency by Floor Zone
 The **Center zone** is his most productive area at **1.25 PPA**. As he moves toward the sides, his efficiency dips — still good, but not nearly as punishing as the middle of the paint.
@@ -62,7 +62,7 @@ Force him into **elbow jumpers, short fades, and mid‑post turnarounds** — th
 
 ### 3. Jumpshots Are Acceptable Outcomes
 A contested three is still better than a paint touch, but **a contested mid‑range jumper is the true win.**
-Don’t overreact to his threes; they’re still far less damaging than his touch shots - **Contest without fouling and trust the numbers**
+Don’t overreact to his threes; they’re still far less damaging than his touch shots - **Contest without fouling and trust the numbers.**
 
 ### 4. Take Away His Touch Shots
 Hooks, floaters, and short push shots are where he does the most damage. To disrupt those, **bring late help from the weak side, use length to bother his release, and make him finish over bodies instead of in rhythm.**
