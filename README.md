@@ -56,13 +56,17 @@ If he’s going to shoot away from the rim, **you’d much rather those be mid�
 ### 1. Make His Paint Touches Tougher
 Jokić becomes extremely efficient when he catches the ball deep. Meet him early, fight for position, and **push his catches farther from the rim.**
 
-### 2. Turn Drives and Post‑Ups Into Mid‑Range Looks
+### 2. Push His Catches Away From the Center of the Floor
+The Center zone is where he produces elite efficiency. The goal is to **shade him off the middle, and force him to operate from the wings or high post.**
+Even a 2–3 foot displacement away from the center dramatically reduces his touch‑shot volume and quality.
+
+### 3. Turn Drives and Post‑Ups Into Mid‑Range Looks
 If he’s outside the paint, **your priority is to keep him from stepping into a three or re‑entering the paint.**  
 Force him into **elbow jumpers, short fades, and mid‑post turnarounds** — these are his least efficient outcomes.
 
-### 3. Jumpshots Are Acceptable Outcomes
+### 4. Live With the Jumpers — Especially the Mid‑Range Ones
 A contested three is still better than a paint touch, but **a contested mid‑range jumper is the true win.**
 Don’t overreact to his threes; they’re still far less damaging than his touch shots - **Contest without fouling and trust the numbers.**
 
-### 4. Take Away His Touch Shots
+### 5. Take Away His Touch Shots
 Hooks, floaters, and short push shots are where he does the most damage. To disrupt those, **bring late help from the weak side, use length to bother his release, and make him finish over bodies instead of in rhythm.**
